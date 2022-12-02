@@ -1,3 +1,3 @@
-Calculator
+# Calculator
 
 덧셈, 뺄셈, 나눗셈, 곱셈이 가능한 간단한 계산기입니다.
